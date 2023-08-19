@@ -1,6 +1,6 @@
 ![MasterHead](https://sloanreview.mit.edu/wp-content/uploads/2021/03/GEN-Abraham-Cyber-Resilience-1290x860-1.jpg)
 <h1 align="center">Hi 👋, I'm Ojas Patil</h1>
-<h3 align="center">A passionate cybersecurity enthusiast 👨‍💻</h3>
+<h3 align="center">A Passionate Cybersecurity Enthusiast 👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://kenzie.snhu.edu/wp-content/uploads/2022/10/Ethical-Hacking-Kenzie-Academy.jpeg">
 
 
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Active Directory Environment**
 
-- 🌱 I’m currently learning **Java , Flutter**
+- 🌱 I’m currently learning **Java , Offensive Security**
 
-- 💬 Ask me about **Python, Django, Bootstrap, OSINT Framework**
+- 💬 Ask me about **Flutter, OSINT Frameworks, Google Dorking**
 
 - 📫 How to reach me **oja2001pat@gmail.com**
 
