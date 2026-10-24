@@ -1,6 +1,18 @@
 <!-- ============================  HEADER  ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ojas%20Patil&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Security%20Operations%20%E2%80%A2%20Detection%20Engineering%20%E2%80%A2%20AI%20Security&descSize=17&descAlignY=58" alt="Ojas Patil banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,55:0d1117,100:003b2b&height=210&section=header&text=OJAS%20PATIL&fontSize=62&fontColor=00FF9C&fontAlignY=40&animation=fadeIn&desc=SOC%20Analyst%20%20%2F%2F%20%20Detection%20Engineering%20%20%2F%2F%20%20AI%20Security&descSize=18&descAlignY=66&descAlign=50" alt="Ojas Patil — SOC Analyst, Detection Engineering, AI Security"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Security+Operations+Analyst+%7C+MSc+Cyber+Security+%7C+CEH+v12;%24+hunt+--siem+sentinel%2Cwazuh%2Csplunk+--lang+kql%2Cspl+--mitre+attack;%24+triage+--edr+sentinelone%2Cvision-one+--sla+P1-P3+--escalate+T2;%24+redteam+--target+llm-agent+--owasp+LLM01-LLM10+--map+atlas;%24+echo+%24STATUS+%E2%86%92+Open+to+SOC+%2F+Detection+%2F+AI+Security+roles+%E2%80%94+Dublin" alt="Terminal intro"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH-v12-00FF9C?style=flat-square&labelColor=0d1117" alt="CEH v12"/>
+  <img src="https://img.shields.io/badge/MSc-Cyber_Security-00FF9C?style=flat-square&labelColor=0d1117" alt="MSc Cyber Security"/>
+  <img src="https://img.shields.io/badge/Enterprise_SOC-Reliance_Jio_%7C_Sequretek-00FF9C?style=flat-square&labelColor=0d1117" alt="Enterprise SOC"/>
+  <img src="https://img.shields.io/badge/MITRE-ATT%26CK_%7C_ATLAS-00FF9C?style=flat-square&labelColor=0d1117" alt="MITRE"/>
+  <img src="https://img.shields.io/badge/OWASP-LLM_Top_10-00FF9C?style=flat-square&labelColor=0d1117" alt="OWASP LLM"/>
 </p>
 
 <p align="center">
