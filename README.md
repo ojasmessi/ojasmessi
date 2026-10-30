@@ -1,8 +1,4 @@
-<!-- ============================  HEADER  ============================ -->
-<p align="center">
-  <img src="./assets/banner.svg" alt="Ojas Patil — Security Operations · Detection Engineering · AI Security" width="100%"/>
-</p>
-
+<img width="1200" height="320" alt="banner" src="https://github.com/user-attachments/assets/052be5c8-29cc-47fe-8baf-046529214089" /><!-- ============================  HEADER  ============================ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=SOC+Analyst+%7C+Incident+Response+%7C+Threat+Hunting;Building+detections+in+KQL+%E2%80%A2+SPL+%E2%80%A2+Wazuh+rules;Red-teaming+and+monitoring+LLM+applications;MSc+Cyber+Security+%E2%80%94+National+College+of+Ireland" alt="Typing intro"/>
 </p>
